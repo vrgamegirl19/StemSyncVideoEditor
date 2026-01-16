@@ -157,6 +157,34 @@ Add `intro.mp4` and/or `outro.mp4` to the project root.
 
 ---
 
+## Non-AI Example (Live Band / Multi-Camera)
+
+This workflow also works well for **traditional, non-AI footage**.
+
+For example, if you’re filming a live band, you might have several cameras:
+- One focused on the **singer**
+- One on the **drummer**
+- One on the **guitar players**
+- One wide shot of the **full band**
+
+You can take these full-length camera recordings and pair them with **audio stems** from the performance.  
+There are many tools available that can separate stems from a live mix or multitrack recording.
+
+Once the stems are prepared:
+- Vocals can drive singer-focused shots
+- Drums can drive drummer angles
+- Instruments can drive guitar or wide shots
+
+You can also capture additional footage to use as **free clips (B-roll)**, such as:
+- Crowd reactions
+- People at the bar
+- Venue atmosphere
+- Detail shots or motion shots
+
+These free clips get injected on musical cut points, helping add variety while keeping everything rhythmically aligned.
+
+---
+
 ## Output
 
 - Final render: `.mp4`
