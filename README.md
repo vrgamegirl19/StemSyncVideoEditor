@@ -6,6 +6,8 @@ The goal is smooth, musical edits with no hard cuts and minimal manual timeline 
 
 This README documents both setup and my personal workflow, which is how the tool is intended to be used.
 
+[Watch video walkthrough here](https://youtu.be/49IhRYrEelg)
+
 ---
 
 ## Requirements
