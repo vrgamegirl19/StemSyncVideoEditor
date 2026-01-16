@@ -1,5 +1,5 @@
 
-# 🎬 Beat-Locked Auto Video Editor
+# 🎬 Stem-Sync Video Editor
 
 This app automatically edits music videos by cutting between full-length videos based on audio stems, beat detection, and energy levels.  
 The goal is smooth, musical edits with no hard cuts and minimal manual timeline work.
